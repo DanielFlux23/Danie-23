@@ -12,7 +12,7 @@ Atualmente estou cursando o ensino médio e mexendo com terminal nas horas vagas
 
 Amor trabalhar com lógica e problemas difíceis🔥
 
-Recentemente andei estudando Java
+Recentemente andei estudando node.js
 
 Gosto de dividir o código em partes menores quando necessário e nada com deixá-lo bem documentado 
 
