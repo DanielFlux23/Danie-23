@@ -14,7 +14,7 @@ Amor trabalhar com lógica e problemas difíceis🔥
 
 Recentemente andei estudando node.js
 
-Gosto de dividir o código em partes menores quando necessário e nada com deixá-lo bem documentado 
+Gosto de dividir o código em partes menores quando necessário e nada como deixá-lo bem documentado 
 
 ## habilidades
 <!-- JavaScripit -->
