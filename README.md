@@ -17,6 +17,10 @@ Recentemente andei estudando node.js
 Gosto de dividir o código em partes menores quando necessário e nada como deixá-lo bem documentado 
 
 ## habilidades
+
+
+## linguagens
+
 <!-- JavaScripit -->
 <img			 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 JavaScripit
