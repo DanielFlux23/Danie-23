@@ -17,10 +17,6 @@ Recentemente andei estudando node.js
 Gosto de dividir o código em partes menores quando necessário e nada como deixá-lo bem documentado 
 
 ## habilidades
-
-
-## linguagens
-
 <!-- JavaScripit -->
 <img			 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 JavaScripit
@@ -53,4 +49,33 @@ Java
 <!-- c++ -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 c++
+
+## Interesses e Projetos
+
+- **Inteligência Artificial Geral e Redes Neurais**
+
+- **Xadrez ♟️ (porque estratégia importa, né?)**
+
+
+## Pretendo Estudar 📚
+
+- **Java**
+
+- **C++**
+
+
+## Maiores Projetos (Repositórios Privados) 🔒
+
+- **NOVE – Aplicativo de positividade e ferramentas.**
+
+- **Opex – Inteligência capaz de rodar em dispositivos embarcados.**
+
+- **Erono – Jogo de RPG dinâmico.**
+
+
+## Principais Bibliotecas Criadas 📦
+
+- **Pop.js – Manipulação do DOM.**
+
+- **Sistfique.js – (Em desenvolvimento)**
 
