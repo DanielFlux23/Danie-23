@@ -60,13 +60,6 @@ c++
 - **Xadrez ♟️ (porque estratégia importa, né?)**
 
 
-## Pretendo Estudar 📚
-
-- **Java**
-
-- **C++**
-
-
 ## Maiores Projetos (Repositórios Privados) 🔒
 
 - **NOVE – Aplicativo de positividade e ferramentas.**
