@@ -75,4 +75,7 @@ c++
 
 - **Sistfique.js – (Em desenvolvimento)**
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DanielFlux23)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DanielFlux23&show_icons=true&theme=radical&hide=prs&count_private=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFlux23&layout=compact&theme=radical)
