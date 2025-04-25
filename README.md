@@ -75,3 +75,4 @@ c++
 
 - **Sistfique.js – (Em desenvolvimento)**
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DanielFlux23)
