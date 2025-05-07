@@ -1,31 +1,32 @@
 # Olá sou Daniel g. rocha!
 
-Sou programador e amante por café! 
+Sou programador e amante de café! 
 
 Adoro programa enquanto bebo um bom café ☕
 
-Tenho epifanias de projetos maneiro enquanto
-durmo 🛏️
+Tenho epifanias de projetos maneiros durante meus sonhos🛏️
 
 
-Atualmente estou cursando o ensino médio e mexendo com terminal nas horas vagas ⏰
+Atualmente estou cursando o ensino médio e explorado o terminal nas horas vagas ⏰
 
-Amor trabalhar com lógica e problemas difíceis🔥
+Amo trabalhar com lógica e problemas difíceis🔥
 
 Recentemente andei estudando node.js
 
 Gosto de dividir o código em partes menores quando necessário e nada como deixá-lo bem documentado 
 
 ## Habilidades
-<!-- JavaScripit -->
-<img			 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-JavaScripit
+<p align="left">
+<!-- JavaScript -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+JavaScript
 <!-- HTML -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 HTML
 <!-- CSS -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 CSS
+<p>
 
 ## Conhecimentos Básicos👨‍💻
 <!-- Node.js -->
@@ -44,14 +45,14 @@ python
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
     Git
 
-## Pretendo Estuda
+## Pretendo Estudar
 <!-- Java -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 Java
 
 <!-- c++ -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-c++
+C++
 
 ## Estatísticas
 
