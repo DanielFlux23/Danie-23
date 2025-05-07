@@ -26,9 +26,12 @@ HTML
 <!-- CSS -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 CSS
-<p>
+</p>
 
 ## Conhecimentos Básicos👨‍💻
+<p align="left">
+
+
 <!-- Node.js -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 Node.js
@@ -44,8 +47,9 @@ python
 <!-- Git -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
     Git
-
+</p>
 ## Pretendo Estudar
+<p align="left">
 <!-- Java -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 Java
@@ -53,6 +57,7 @@ Java
 <!-- c++ -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 C++
+</p>
 
 ## Estatísticas
 
