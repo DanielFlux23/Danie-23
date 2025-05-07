@@ -75,6 +75,8 @@ c++
 
 - **Sistfique.js – (Em desenvolvimento)**
 
+<a href="https://br.linkedin.com/in/daniel-g-rocha-a75060361?trk=people-guest_people_search-card">linkedin</a>
+
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DanielFlux23&show_icons=true&theme=radical&hide=prs&count_private=true)
 
