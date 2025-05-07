@@ -16,7 +16,7 @@ Recentemente andei estudando node.js
 
 Gosto de dividir o código em partes menores quando necessário e nada como deixá-lo bem documentado 
 
-## habilidades
+## Habilidades
 <!-- JavaScripit -->
 <img			 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 JavaScripit
@@ -27,7 +27,7 @@ HTML
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 CSS
 
-## conhecimentos básicos👨‍💻
+## Conhecimentos Básicos👨‍💻
 <!-- Node.js -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 Node.js
@@ -44,7 +44,7 @@ python
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
     Git
 
-## pretendo estuda
+## Pretendo Estuda
 <!-- Java -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 Java
@@ -53,6 +53,12 @@ Java
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 c++
 
+## Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DanielFlux23&show_icons=true&theme=radical&hide=prs&count_private=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFlux23&layout=compact&theme=radical)
+
 ## Interesses e Projetos
 
 - **Inteligência Artificial Geral e Redes Neurais**
@@ -60,11 +66,11 @@ c++
 - **Xadrez ♟️ (porque estratégia importa, né?)**
 
 
-## Maiores Projetos (Repositórios Privados) 🔒
+## Maiores Projetos 
 
-- **NOVE – Aplicativo de positividade e ferramentas.**
+- **NOVE – Aplicativo de positividade e ferramentas.** (Repositório Privado) 🔒
 
-- **Opex – Inteligência capaz de rodar em dispositivos embarcados.**
+- **Opex – Inteligência capaz de rodar em dispositivos embarcados.** (Repositório Privado) 🔒
 
 - **Erono – Jogo de RPG dinâmico.**
 
@@ -76,8 +82,3 @@ c++
 - **Sistfique.js – (Em desenvolvimento)**
 
 <a href="https://br.linkedin.com/in/daniel-g-rocha-a75060361?trk=people-guest_people_search-card">linkedin</a>
-
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DanielFlux23&show_icons=true&theme=radical&hide=prs&count_private=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFlux23&layout=compact&theme=radical)
