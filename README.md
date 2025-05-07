@@ -33,15 +33,18 @@ CSS
 <!-- Node.js -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 Node.js
+<a href="https://github.com/DanielFlux23/nodejs">nodejs</a>
 <!-- Terminal -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
 Terminal
 <!-- React -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 React
+<a href="https://github.com/DanielFlux23/react">react</a>
 <!-- python -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 python
+<a href="https://github.com/DanielFlux23/python">Python</a>
 <!-- Git -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
     Git
@@ -82,7 +85,9 @@ C++
 
 ## Principais Bibliotecas Criadas 📦
 
-- **Pop.js – Manipulação do DOM.**
+- **titanDOM – Manipulação do DOM.**
+
+<a href="https://github.com/DanielFlux23/TitanDom">titanDOM</a>
 
 - **Sistfique.js – (Em desenvolvimento)**
 
