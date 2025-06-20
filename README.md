@@ -70,6 +70,10 @@ C++
 
 - **Xadrez ♟️ (porque estratégia importa, né?)**
 
+- **estudos sobre desenho**
+
+<a href="https://github.com/DanielFlux23/Guerreiro_do_grafite">Guerreiro_do_grafite</a>
+
 
 ## Maiores Projetos 
 
