@@ -48,6 +48,7 @@ Terminal
 </p>
 
 ## banco de dados 
+    SQLite
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
 
 ## Pretendo Estudar
