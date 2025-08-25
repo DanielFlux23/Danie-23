@@ -47,6 +47,9 @@ Terminal
     Git
 </p>
 
+## banco de dados 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+
 ## Pretendo Estudar
 <p align="left">
 <!-- Java -->
